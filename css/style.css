@@ -1,0 +1,23 @@
+body{
+    background-color: #000;
+    color: #fff;
+}
+
+.imagem{
+    text-align: center;
+}
+
+.videos{
+    text-align: center;
+    background-color: #000
+}
+
+.footer{
+    margin: 0px;
+    height: 50px;
+    padding-top: 60px;
+    text-align: center;
+    font-family: "Chelsea Market", sans-serif;
+    font-size: 14px;
+    color:#FF7676;
+}
